@@ -104,7 +104,7 @@ function Test-SpotifyVersion {
 
 Write-Host -ForegroundColor Green @"
 **********************************
-Auteurs : @Nuzair46, @KUTlime
+Auteurs : Test
 **********************************
 "@
 Write-Host ""
